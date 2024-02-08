@@ -41,7 +41,7 @@
 			<version>${jcl-over-slf4j.version}</version>
 		</dependency>
 
-		<dependency>
+         	<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 			<version>${logback.version}</version>
@@ -101,3 +101,4 @@
 		</plugins>
 	</build>
 </project>
+
